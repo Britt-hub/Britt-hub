@@ -6,3 +6,4 @@
 - 📫 How to reach me: My email is bloydeveloper@gmail.com
 - 🖥 My protfilio:https://brittany-loy.myportfolio.com/
 - ⚡ Fun fact: I've been skydiving and plan on going again!
+- 📃 Blog: https://thesoulcoder.hashnode.dev/
